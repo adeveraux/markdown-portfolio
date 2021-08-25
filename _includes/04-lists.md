@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Breakfast
+2. Hounds
+3. Sunflowers
